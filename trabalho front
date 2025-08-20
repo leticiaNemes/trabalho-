@@ -8,8 +8,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
-      background-color: #f8f9fa;
-      background-image: url('https://placehold.co/1920x1080/dimgray/black?text=Mundo+Épico');
+      background-color: #4c4d4f;
       background-size: cover;
       background-attachment: fixed;
       background-position: center;
@@ -74,7 +73,7 @@
       <!-- Card 1: Raças -->
       <div class="col-md-6">
         <div class="card h-100 border-warning">
-          <img src="https://placehold.co/600x400/343a40/white?text=Raças+do+Reino" class="card-img-top" alt="Diversas raças de fantasia incluindo humanos, elfos, anões e outras criaturas míticas">
+          <img src="https://static.wikia.nocookie.net/ancient/images/e/eb/Races.jpg/revision/latest?cb=20160525022959&path-prefix=pt-br" class="card-img-top" alt="Diversas raças de fantasia incluindo humanos, elfos, anões e outras criaturas míticas">
           <div class="card-body">
             <h3 class="card-title">Raças Disponíveis</h3>
             <p class="card-text">Conheça as diversas raças que habitam nosso mundo e escolha a sua para começar sua aventura!</p>
@@ -95,7 +94,7 @@
       <!-- Card 2: Classes -->
       <div class="col-md-6">
         <div class="card h-100 border-warning">
-          <img src="https://placehold.co/600x400/343a40/white?text=Classes+de+Personagem" class="card-img-top" alt="Diferentes classes de personagens de RPG em ação">
+          <img src="https://pt.quizur.com/_image?href=https://static.quizur.com/i/b/58791305204895.5506141158791305112cb9.74743538.jpg&w=1024&h=1024&f=webp" class="card-img-top" alt="Diferentes classes de personagens de RPG em ação">
           <div class="card-body">
             <h3 class="card-title">Classes de Personagem</h3>
             <p class="card-text">Selecione sua classe e descubra suas habilidades especiais para enfrentar os desafios do mundo!</p>
